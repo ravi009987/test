@@ -6,4 +6,4 @@ pwd
 
 ls -a
 
-echo "hiii col"
+echo "hiii coool"
